@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ImprisonmentCalculator/static/css/main.1f0b50c8.chunk.css",
+    "main.js": "/ImprisonmentCalculator/static/js/main.fa699772.chunk.js",
+    "main.js.map": "/ImprisonmentCalculator/static/js/main.fa699772.chunk.js.map",
+    "runtime~main.js": "/ImprisonmentCalculator/static/js/runtime~main.a3c094da.js",
+    "runtime~main.js.map": "/ImprisonmentCalculator/static/js/runtime~main.a3c094da.js.map",
+    "static/js/2.d8c4d936.chunk.js": "/ImprisonmentCalculator/static/js/2.d8c4d936.chunk.js",
+    "static/js/2.d8c4d936.chunk.js.map": "/ImprisonmentCalculator/static/js/2.d8c4d936.chunk.js.map",
+    "index.html": "/ImprisonmentCalculator/index.html",
+    "precache-manifest.fbb19cfa3d3f4e8b116b29260fa3818e.js": "/ImprisonmentCalculator/precache-manifest.fbb19cfa3d3f4e8b116b29260fa3818e.js",
+    "service-worker.js": "/ImprisonmentCalculator/service-worker.js",
+    "static/css/main.1f0b50c8.chunk.css.map": "/ImprisonmentCalculator/static/css/main.1f0b50c8.chunk.css.map"
+  }
+}
